@@ -1,0 +1,21 @@
+
+# Customer Churn Prediction System
+
+# Overview
+End-to-end machine learning solution predicting customer churn with **80.2% accuracy** using XGBoost.
+
+##  Tech Stack
+- **Python**: Pandas, NumPy, Scikit-learn, XGBoost
+- **Web**: Flask, HTML, CSS
+- **Tools**: Jupyter, VS Code, Git
+
+## Model Performance
+| Metric | Score |
+|--------|-------|
+| Accuracy | 80.2% |
+| Precision (Churn) | 64% |
+
+##  How to Run
+```bash
+pip install -r requirements.txt
+python app.py
